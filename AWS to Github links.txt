@@ -1,0 +1,24 @@
+ip address
+https://ioc-blocking-ip-addresses.s3.ap-southeast-1.amazonaws.com/IOC-IP+Address+Blocking.txt
+
+https://raw.githubusercontent.com/alvin32100/IOC-Blocking/main/IOC-IP%20Address%20Blocking.txt
+
+md5
+https://raw.githubusercontent.com/alvin32100/IOC-Blocking/main/IOC-MD5.txt
+
+https://ioc-blocking-file-hashes.s3.ap-southeast-1.amazonaws.com/IOC-MD5.txt
+
+sha1
+https://ioc-blocking-file-hashes.s3.ap-southeast-1.amazonaws.com/IOC-SHA1.txt
+
+https://raw.githubusercontent.com/alvin32100/IOC-Blocking/main/IOC-SHA1.txt
+
+sha256
+https://ioc-blocking-file-hashes.s3.ap-southeast-1.amazonaws.com/IOC-SHA256.txt
+
+https://raw.githubusercontent.com/alvin32100/IOC-Blocking/main/IOC-SHA256.txt
+
+url blocking 
+https://ioc-blocking-urls.s3.ap-southeast-1.amazonaws.com/IOC-URL+Blocking.txt
+
+https://raw.githubusercontent.com/alvin32100/IOC-Blocking/main/IOC-URL%20Blocking.txt
